@@ -1,4 +1,3 @@
-//If you want to take the date automatically please uncomment from the line  162 to 168 and comment from  
 #include<iostream>
 #include<fstream>
 #include<cctype>
